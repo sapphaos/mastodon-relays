@@ -4,15 +4,14 @@
 
 The following are alive Mastodon relay list.
 
-- **Mastodon.host** - https://relay.mastodon.host
-- **Yiff.social** - https://yiff.social
-- **Moew Relay** (Chinese Only) - https://mastodon-relay.moew.science
+You can check what the relay is mainly focused on and what instances you'll be subscribing to by accessing the URL without the /inbox 
+
+- **Mastodon.host** - https://relay.mastodon.host/inbox
+- **Yiff.social** - https://yiff.social/inbox
+- **Moew Relay** (Chinese Only) - https://mastodon-relay.moew.science/inbox
 - **Masto.tech** - https://relay.masto.tech/inbox
 - **Aus.Social** - https://neighbours.aus.social/inbox
 - **social.homunyan.com** - https://relay.homunyan.com/inbox
-- **MastodonSocial.ru** - https://relay.mastodonsocial.ru/inbox
-- **pleroma.site** - https://relay.pleroma.site
-- **hama3** - https://pub-relay.hama3.net
-- **Kemono Friends** - https://relay.kemo.one
+- **hama3** - https://pub-relay.hama3.net/inbox
 - **Linux.Pizza's** - https://relay.linux.pizza/inbox
 - **Quebec** (French speakers only) - https://relais.quebec.gq/inbox
