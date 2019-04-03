@@ -6,6 +6,8 @@ The following are alive Mastodon relay list.
 
 You can check what the relay is mainly focused on and what instances you'll be subscribing to by accessing the URL without the /inbox 
 
+Don't add too many relays at once as it will make your database grow a lot
+
 - **Mastodon.host** - https://relay.mastodon.host/inbox
 - **Yiff.social** - https://yiff.social/inbox
 - **Moew Relay** (Chinese Only) - https://mastodon-relay.moew.science/inbox
