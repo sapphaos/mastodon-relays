@@ -16,4 +16,4 @@ Don't add too many relays at once as it will make your database grow a lot
 - **social.homunyan.com** - https://relay.homunyan.com/inbox
 - **hama3** - https://pub-relay.hama3.net/inbox
 - **Linux.Pizza's** - https://relay.linux.pizza/inbox
-- **Quebec** (French speakers only) - https://relais.quebec.gq/inbox
+- **FédiQuébec** (French speakers only) - https://relai-francophone.fedi.quebec/inbox
